@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nnnnn
+=======
+frdehuj
+>>>>>>> 6aa46c527266bded060824da66ac3262c4c488cd
